@@ -1,5 +1,5 @@
-Konfigurační soubory tesovacího hJOPserveru
-===========================================
+Konfigurační soubory testovacího hJOPserveru
+============================================
 
 Tento repozitář obsahuje konfigurační soubory testovacího layoutu
 pro [hJOPserver](https://github.com/kmzbrnoI/hJOPserver).
