@@ -1,0 +1,18 @@
+﻿[global]
+version=2.1
+
+[4130]
+nazev=413
+majitel=KMŽ Brno I
+oznaceni=413.073
+poznamka=Pozor: pro vypnutí zvuků je třeba vypnout i světla (turbogenerátor).
+trida=0
+max_rychlost=60
+prechodnost=0
+multitrakce=1
+pom_automat=
+pom_manual=
+pom_release=manual
+func_vyznam={světla};{prikládání uhlí};{světlo v kabině};;{posun};;{odvodňovací ventily};{píšťala dlouhá};{zvuk};{píšťala krátká};{houkačka dlouhá};{houkačka krátká};{povolte brzdy úplně};{injektor levý};{injektor pravý};{kompresor};{píšťalka výpravčího};{svěšení šroubovky};{rozvěšení šroubovky};{přepínání sad zvuků};{broušení okolků};{zbrojení vodou};{zbrojení uhlím};{vysypávání popela};{odkalovač};{trubka vlakvedoucího};{snižování hlasitosti};{zvyšování hlasitosti};{ztlumení zvuků};
+func_type=PPPPPPPMPMMMMPPPMMMPPMMMMMMMP
+

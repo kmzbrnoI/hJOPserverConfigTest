@@ -1,0 +1,18 @@
+﻿[global]
+version=2.1
+
+[4665]
+nazev=Pilštyk
+majitel=KMŽ Brno I
+oznaceni=T466.0064
+poznamka=
+trida=1
+max_rychlost=80
+prechodnost=0
+multitrakce=1
+pom_automat=
+pom_manual=
+pom_release=manual
+func_vyznam={světla};{konce};{reflektor};;{posun};;;;;;;;;;;;;;;;;;;;;;;;;
+func_type=PPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+

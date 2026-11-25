@@ -1,0 +1,18 @@
+﻿[global]
+version=2.1
+
+[4785]
+nazev=Zamračená
+majitel=KMŽ Brno I
+oznaceni=T478.1015
+poznamka=
+trida=1
+max_rychlost=80
+prechodnost=0
+multitrakce=1
+pom_automat=
+pom_manual=
+pom_release=manual
+func_vyznam={světla};{konce};{reflektor};;{posun};;;{houkačka dlouhá};{zvuk};{houkačka krátká};{houkačka dlouhá};{houkačka dvojitá};{povolte brzdy úplně};{píšťala dlouhá};{píšťala krátká};{kompresor};{píšťalka výpravčího};{trubka vlakvedoucího};{svěšení šroubovky};;{ztlumení zvuků};;;;;;;;;
+func_type=PPPPPPPMPMMMMMMPMMMPPPPPPPPPP
+

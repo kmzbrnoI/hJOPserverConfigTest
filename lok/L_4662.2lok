@@ -1,0 +1,18 @@
+﻿[global]
+version=2.1
+
+[4662]
+nazev=Pilštyk
+majitel=KMŽ Brno I
+oznaceni=T466.0137
+poznamka=
+trida=1
+max_rychlost=80
+prechodnost=0
+multitrakce=1
+pom_automat=(4,37)
+pom_manual=
+pom_release=manual
+func_vyznam={světla};{konce};{reflektor};;{posun};;{plný výkon};{houkačka dlouhá};{zvuk};{houkačka krátká};{houkačka dlouhá};{houkačka dvojitá};{povolte brzdy úplně};{píšťala dlouhá};{píšťala krátká};{kompresor};{píšťalka výpravčího};{svěšení šroubovky};{rozvěšení šroubovky};;{broušení okolků};;;{trubka vlakvedoucího};{pískování};;{snižování hlasitosti};{zvyšování hlasitosti};;
+func_type=PPPPPPPMPMMMMMMPMMMPPPPMPPMMP
+

@@ -1,0 +1,18 @@
+﻿[global]
+version=2.1
+
+[1524]
+nazev=Orchestrion
+majitel=KMŽ Brno I
+oznaceni=M152.0044
+poznamka=
+trida=2
+max_rychlost=80
+prechodnost=0
+multitrakce=1
+pom_automat=
+pom_manual=
+pom_release=manual
+func_vyznam={světla};{konce};{reflektor};{kabina};{posun};;;{houkačka dlouhá};{zvuk};{houkačka krátká};{houkačka dlouhá};{houkačka krátká 2};{trubka vlakvedoucího};{naftové topení};{dveře};{kompresor};{píšťaka výpravčího};{svěšení šroubovky};{rozvěšení šroubovky};{přepínání sad zvuků};{broušení okolků};{dveře (jedny)};;;{pískování};{odkalení};{snižování hlasitosti};{zvyšování hlasitosti};{ztlumení zvuků};
+func_type=PPPPPPPMPMMPMPMPMMMPPMPPPMMMP
+

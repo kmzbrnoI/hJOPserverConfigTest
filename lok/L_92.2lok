@@ -1,0 +1,18 @@
+﻿[global]
+version=2.1
+
+[92]
+nazev=Blm
+majitel=KMŽ Brno I
+oznaceni=24-29 075-1
+poznamka=
+trida=4
+max_rychlost=80
+prechodnost=0
+multitrakce=1
+pom_automat=
+pom_manual=
+pom_release=manual
+func_vyznam={konce};;;;;;;;;;;;;;;{interiér};;;;;;;;;;;;;;
+func_type=PPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+

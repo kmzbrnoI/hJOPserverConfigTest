@@ -1,0 +1,18 @@
+﻿[global]
+version=2.1
+
+[4668]
+nazev=Pilštyk proužek
+majitel=KMŽ Brno I
+oznaceni=T466.0085
+poznamka=
+trida=1
+max_rychlost=80
+prechodnost=0
+multitrakce=1
+pom_automat=
+pom_manual=
+pom_release=manual
+func_vyznam={světla};{konce};{reflektor};;{posun};;{výběh};{houkačka dlouhá};{zvuk};{houkačka krátká};{houkačka dlouhá};{houkačka dvojitá};{povolte brzdy úplně};{píšťala dlouhá};{píšťala krátká};{kompresor};{píšťalka výpravčího};{svěšení šroubovky};{rozvěšení šroubovky};{přepínání sad zvuků};{broušení okolků};;{zbrojení naftou};{trubka vlakvedoucího};{pískování};{plný výkon};{snižování hlasitosti};{zvyšování hlasitosti};{ztlumení zvuků};
+func_type=PPPPPPPMPMMMMMMPMMMPPPMMPPMMP
+
